@@ -1,4 +1,6 @@
 <!-- 👋 INTRO -->
+<img align="right" alt="Coding GIF" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 <h1 align="center">Hey there, I'm Njimogu Wisdom 👋</h1>
 <h3 align="center">✨ Software Engineer | Web Developer | Tech Innovator ✨</h3>
 
@@ -10,7 +12,7 @@
 
 ### 🧩 About Me
 
-<img align="right" alt="Coding GIF" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 
 👋 I'm **Njimogu Wisdom**, also known as **The Wiz**,  
 a passionate **Software Engineer** from 🇳🇬 **Nigeria**.
@@ -28,7 +30,7 @@ a passionate **Software Engineer** from 🇳🇬 **Nigeria**.
 `React.js` · `Next.js` · `TailwindCSS` · `HTML` · `CSS`
 
 #### ⚙️ Backend
-`Node.js` · `Express.js` · `Python` · `FastAPI`
+`Node.js` · `Express.js` · `Python` · `FastAPI`, `Django`
 
 #### 🗄 Database
 `PostgreSQL` · `MongoDB`
