@@ -1,4 +1,4 @@
-# Hi there, I'm the Wiz 👋
+# Hi there, I'm [Your Name] 👋
 
 <div align="center">
   
