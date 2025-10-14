@@ -16,7 +16,7 @@
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Hart-wiz&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views"/>
 </p>
 
 </div>
@@ -127,17 +127,17 @@ hobbies: ["Coding", "Reading Tech Blogs", "Contributing to OSS"]
 <br/>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hart-wiz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hart-wiz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=github_dark&utcOffset=8" alt="Productive Time"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hart-wiz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hart-wiz&theme=github_dark&utcOffset=8" alt="Productive Time"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Contribution Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hart-wiz&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Contribution Graph" width="98%"/>
 </p>
 
 </details>
