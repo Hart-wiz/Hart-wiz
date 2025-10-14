@@ -29,13 +29,12 @@
 <br/>
 
 ```yaml
-name: Your Name
-located_in: City, Country
+name: Wisdom Njimogu
 current_role: Full Stack Developer
-company: Your Company / Freelance
+company: currently Freelance
 
 fields_of_interest:
-  - Web Development
+  - software & web Development
   - Cloud Architecture
   - AI/ML
   - Open Source
@@ -51,7 +50,7 @@ hobbies: ["Coding", "Reading Tech Blogs", "Contributing to OSS"]
 ```
 
 **💬 Ask me about:** Web Development, Cloud Architecture, APIs, System Design  
-**📫 Reach me:** [your.email@example.com](mailto:your.email@example.com)  
+**📫 Reach me:**[njimoguwisdom@gmail.com](mailto:your.email@example.com)  
 **⚡ Fun fact:** I think semicolons are optional in JavaScript and that's a hill I'm willing to debug on
 
 </details>
@@ -85,10 +84,6 @@ hobbies: ["Coding", "Reading Tech Blogs", "Contributing to OSS"]
 <br>Python
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-<br>Go
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
 <br>Java
 </td>
@@ -98,12 +93,12 @@ hobbies: ["Coding", "Reading Tech Blogs", "Contributing to OSS"]
 <!-- Frontend -->
 **Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,sass,redux,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass,redux,vite" />
 
 <!-- Backend -->
 **Backend Development**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql,nginx" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask" />
 
 <!-- Database & Tools -->
 **Database & DevOps**
