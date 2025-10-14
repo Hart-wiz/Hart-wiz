@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+%5BYour+Name%5D;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+%5Bthe+Wiz%5D;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%7C+Full+Stack+Developer;Cloud+Enthusiast+%7C+Open+Source+Contributor;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" /></a>
 
