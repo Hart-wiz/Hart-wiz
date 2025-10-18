@@ -49,8 +49,8 @@ currently_learning: ["Kubernetes", "Go", "System Design"]
 hobbies: ["Coding", "Reading Tech Blogs", "Contributing to OSS"]
 ```
 
-**💬 Ask me about:** Web Development, Cloud Architecture, APIs, System Design  
-**📫 Reach me:**[njimoguwisdom@gmail.com](mailto:your.email@example.com)  
+**💬 Ask me about:** Web Development, Cloud Architecture, APIs, System Design, Machine Learning  
+**📫 Reach me:**[njimoguwisdom@gmail.com](mailto:your.njimoguwisdom@gmail.com)  
 **⚡ Fun fact:** I think semicolons are optional in JavaScript and that's a hill I'm willing to debug on
 
 </details>
