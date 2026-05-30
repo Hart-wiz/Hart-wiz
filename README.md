@@ -59,7 +59,6 @@ I’m passionate about using technology to improve healthcare delivery, enhance 
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hart-wiz&show_icons=true&hide_border=true)
 
